@@ -3,4 +3,5 @@ testInstanceCreation
 
 	| chain |
 	chain := BCBlockchain newInMemory.
-	self assert: chain isInMemory 
+	self 
+		assert: chain isInMemory 
