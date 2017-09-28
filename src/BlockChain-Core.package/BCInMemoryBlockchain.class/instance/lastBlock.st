@@ -1,0 +1,3 @@
+accessing
+lastBlock
+	^blocks last

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 9/28/2017 23:45",
+	"super" : "TestCase",
+	"category" : "BlockChain-Core-Tests-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"chain"
+	],
+	"name" : "BCBlockchainTest",
+	"type" : "normal"
+}
