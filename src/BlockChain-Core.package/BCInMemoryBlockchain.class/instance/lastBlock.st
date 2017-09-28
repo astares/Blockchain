@@ -1,3 +1,3 @@
 accessing
 lastBlock
-	^blocks last
+	^self blocks last
