@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 9/28/2017 22:25",
+	"super" : "Object",
+	"category" : "BlockChain-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BCBlockchain",
+	"type" : "normal"
+}

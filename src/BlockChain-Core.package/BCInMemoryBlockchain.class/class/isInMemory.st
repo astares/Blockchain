@@ -1,0 +1,4 @@
+testing
+isInMemory
+
+	^true

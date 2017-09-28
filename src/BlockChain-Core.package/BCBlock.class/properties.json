@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "TorstenBergmann 9/28/2017 22:05",
+	"super" : "Object",
+	"category" : "BlockChain-Core-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"index",
+		"previousHash",
+		"timestamp",
+		"data",
+		"hash"
+	],
+	"name" : "BCBlock",
+	"type" : "normal"
+}
