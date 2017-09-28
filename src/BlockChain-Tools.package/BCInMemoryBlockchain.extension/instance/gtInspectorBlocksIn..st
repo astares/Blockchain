@@ -1,5 +1,5 @@
 *BlockChain-Tools
-gtInspectorSubscriptionsIn: composite
+gtInspectorBlocksIn: composite
 	<gtInspectorPresentationOrder: 0>
 	composite table 
 		title: 'Blocks';
